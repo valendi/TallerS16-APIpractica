@@ -1,0 +1,28 @@
+body {
+    background-color: #eedbe9;
+    padding-top: 50px;
+}
+.container {
+    text-align: center;
+}
+.img-container {
+    margin-top: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(136, 50, 116, 0.2);
+}
+
+#btnCat{
+    background-color: pink;
+    color: black;
+    font-weight: bold;
+}
+
+#btnCat:hover{
+    background-color: rgb(160, 76, 104);
+    color: whitesmoke;
+    font-weight: bold;
+}
