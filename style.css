@@ -1,6 +1,7 @@
 body {
     background-color: #eedbe9;
     padding-top: 50px;
+    font-family: cursive;
 }
 .container {
     text-align: center;
@@ -17,12 +18,16 @@ img {
 
 #btnCat{
     background-color: pink;
-    color: black;
-    font-weight: bold;
+    color: rgb(110, 17, 73);
+    font-family: cursive;
+
 }
 
 #btnCat:hover{
     background-color: rgb(160, 76, 104);
     color: whitesmoke;
-    font-weight: bold;
+}
+
+#titulo{
+    color: palevioletred;
 }
